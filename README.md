@@ -18,7 +18,6 @@ Computer Engineering student at the University of Ottawa, passionate about embed
 
 ## 🏆 Achievements
 - 🥉 3rd place out of 22 teams — Hack The Box CTF @ University of Ottawa
-- 🎓 DELF B2 French Certification — 93/100
 
 ## 📫 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-lichaa-el-khoury-144698381)
