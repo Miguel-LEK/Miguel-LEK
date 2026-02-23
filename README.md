@@ -1,4 +1,4 @@
-# Hi there, I'm Miguel 👋
+# Heyy, I'm Miguel
 
 Computer Engineering student at the University of Ottawa, passionate about embedded systems and cybersecurity. I build real things and love a good challenge.
 
